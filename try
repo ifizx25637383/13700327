@@ -1,3 +1,4 @@
+Properties props = new Properties();
 // error processing code
 // do the thing you do
 String url = props.getProperty("db.url");
