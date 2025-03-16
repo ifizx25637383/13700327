@@ -1,3 +1,4 @@
+test.init();
 Properties props = new Properties();
 // error processing code
 // do the thing you do
