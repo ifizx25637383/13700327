@@ -1,3 +1,4 @@
+test.fetch();
 PreparedStatement ps = con.prepareStatement("select SYSDATE from dual");
 // error processing code
 try {
