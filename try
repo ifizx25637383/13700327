@@ -1,3 +1,4 @@
+Properties props = new Properties();
 test.fetch();
 test.fetch();
 PreparedStatement ps = con.prepareStatement("select SYSDATE from dual");
